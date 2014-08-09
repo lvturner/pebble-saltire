@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "lvturner@me.com",
+    "longName": "saltire",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/saltire2.png",
+                "name": "saltire",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "saltire",
+    "uuid": "47780b62-cf93-4b67-ad70-102dab1471c2",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
